@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="place_autocomplete_search_text">#deffffff</color>
+    <color name="place_autocomplete_search_hint">#42ffffff</color>
+    <color name="place_autocomplete_prediction_primary_text">@*android:color/accent_material_dark</color>
+    <color name="place_autocomplete_prediction_primary_text_highlight">#ffffffff</color>
+    <color name="place_autocomplete_prediction_secondary_text">#ffdddddd</color>
+    <color name="place_autocomplete_separator">#1fffffff</color>
+    <color name="common_plus_signin_btn_text_dark_default">#ffffffff</color>
+    <color name="common_plus_signin_btn_text_dark_pressed">#ffffffff</color>
+    <color name="common_plus_signin_btn_text_dark_disabled">#ffaaaaaa</color>
+    <color name="common_plus_signin_btn_text_dark_focused">#ffffffff</color>
+    <color name="common_plus_signin_btn_text_light_default">#ffffffff</color>
+    <color name="common_plus_signin_btn_text_light_pressed">#ffffffff</color>
+    <color name="common_plus_signin_btn_text_light_disabled">#ffaaaaaa</color>
+    <color name="common_plus_signin_btn_text_light_focused">#ffffffff</color>
+    <color name="common_action_bar_splitter">#ffaaaaaa</color>
+    <color name="common_google_signin_btn_text_dark_default">#ffffffff</color>
+    <color name="common_google_signin_btn_text_dark_pressed">#ffffffff</color>
+    <color name="common_google_signin_btn_text_dark_disabled">#ffaaaaaa</color>
+    <color name="common_google_signin_btn_text_dark_focused">#ffffffff</color>
+    <color name="common_google_signin_btn_text_light_default">#ffffffff</color>
+    <color name="common_google_signin_btn_text_light_pressed">#ffffffff</color>
+    <color name="common_google_signin_btn_text_light_disabled">#ffaaaaaa</color>
+    <color name="common_google_signin_btn_text_light_focused">#ffffffff</color>
+
+    <color name="delete_target_hover_tint">@*android:color/accent_material_dark</color>
+    <color name="uninstall_target_hover_tint">@*android:color/accent_material_dark</color>
+    <color name="focused_background">#80000000</color>
+    <color name="default_shadow_color_no_alpha">#ff000000</color>
+    <color name="spring_loaded_panel_color">#40000000</color>
+    <color name="spring_loaded_highlighted_panel_border_color">@*android:color/accent_material_dark</color>
+    <color name="notification_icon_default_color">@*android:color/accent_material_dark</color>
+    <color name="badge_color">@android:color/transparent</color>
+    <color name="folder_badge_color">#ffffffff</color>
+    <color name="icon_background">#ff4285f4</color>
+    <color name="legacy_icon_background">#ffffffff</color>
+    <color name="all_apps_bg_hand_fill">@*android:color/background_dark</color>
+    <color name="all_apps_bg_hand_fill_dark">@*android:color/background_dark</color>
+    <color name="qsb_connector">@*android:color/background_dark</color>
+    <color name="qsb_background">@*android:color/background_dark</color>
+    <color name="qsb_icon_shadow_color">#20000000</color>
+    <color name="qsb_dark_icon_tint">@*android:color/accent_material_dark</color>
+</resources>

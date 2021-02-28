@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@*android:color/transparent" />
+            <stroke android:width="2dip" android:color="@*xyz.paphonb.androidpify:color/homepage_generic_icon_background" />
+            <size android:height="@*xyz.paphonb.androidpify:dimen/dashboard_tile_image_size" android:width="@*xyz.paphonb.androidpify:dimen/dashboard_tile_image_size" />
+        </shape>
+    </item>
+    <item android:height="@*xyz.paphonb.androidpify:dimen/dashboard_tile_foreground_image_size" android:width="@*xyz.paphonb.androidpify:dimen/dashboard_tile_foreground_image_size" android:drawable="@*xyz.paphonb.androidpify:drawable/ic_settings_sound" android:top="@*xyz.paphonb.androidpify:dimen/dashboard_tile_foreground_image_inset" android:start="@*xyz.paphonb.androidpify:dimen/dashboard_tile_foreground_image_inset" />
+</layer-list>

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="actionBarStyle" format="reference" />
+    <attr name="bottomSheetBackground" format="color" />
+    <attr name="bottomSheetDividerColor" format="color" />
+    <attr name="bottomSheetIconColor" format="color" />
+    <attr name="bottomSheetItemCountTextColor" format="color" />
+    <attr name="bottomSheetItemTextColor" format="color" />
+    <attr name="bottomSheetTitleTextColor" format="color" />
+    <attr name="cloudGallerySettingsButtonTextColor" format="color" />
+    <attr name="cloudGalleryStateIconColor" format="color" />
+    <attr name="cloudGalleryStateIconSynchronizing" format="reference" />
+    <attr name="cloudGalleryStatePanelBackground" format="reference" />
+    <attr name="cloudGalleryStateTextColor" format="color" />
+    <attr name="collapsingActionBarStyle" format="reference" />
+    <attr name="entryPageTabBackground" format="color" />
+    <attr name="entryPageTabDividerBackground" format="color" />
+    <attr name="entryPageTabIconColor" format="color" />
+    <attr name="entryPageTabText" format="color" />
+    <attr name="gridviewHeaderAddressColor" format="color" />
+    <attr name="gridviewHeaderTextColor" format="color" />
+    <attr name="locationListItemMediaCountTextColor" format="color" />
+    <attr name="locationListItemTitleTextColor" format="color" />
+    <attr name="locationViewTabBackgroundColor" format="color" />
+    <attr name="locationViewTabSeparatorColor" format="color" />
+    <attr name="mediaSetExpandColor" format="color" />
+    <attr name="mediaSetGridViewItemBackground" format="color" />
+    <attr name="mediaSetGridViewMoreCollectionsBackground" format="color" />
+    <attr name="mediaSetGridViewMoreCollectionsTitleColor" format="color" />
+    <attr name="mediaSetIconColor" format="color" />
+    <attr name="mediaSetListItemBackground" format="reference" />
+    <attr name="mediaSetListItemContainerBackground" format="color" />
+    <attr name="mediaSetListItemHiddenTextStyle" format="reference" />
+    <attr name="mediaSetListItemSizeTextColor" format="color" />
+    <attr name="mediaSetListItemTitleTextColor" format="color" />
+    <attr name="navigationBarColor" format="color" />
+    <attr name="noLocationIconColor" format="color" />
+    <attr name="noLocationTitleColor" format="color" />
+    <attr name="noOtherCollectionsIconColor" format="color" />
+    <attr name="noOtherCollectionsTextColor" format="color" />
+    <attr name="noPhotoIconCircleColor" format="color" />
+    <attr name="noPhotoIconColor" format="color" />
+    <attr name="noPhotoTextColor" format="color" />
+    <attr name="noPhotoTitleColor" format="color" />
+    <attr name="progressBarStyle" format="reference" />
+    <attr name="recycleBinHeadsUpTextColor" format="color" />
+    <attr name="rippleColor" format="color" />
+    <attr name="stickerDefaultLocationDisable" format="color" />
+    <attr name="stickerDefaultLocationEnable" format="color" />
+    <attr name="stickerLocationHint" format="color" />
+    <attr name="stickerUseLocation" format="color" />
+    <attr name="toolbarMenuIconColor" format="color" />
+    <attr name="toolbarMenuTextDisableColor" format="color" />
+    <attr name="toolbarMenuTextEnableColor" format="color" />
+    <attr name="cardBackgroundColor" format="color" />
+    <attr name="cardCornerRadius" format="dimension" />
+    <attr name="cardElevation" format="dimension" />
+    <attr name="cardMaxElevation" format="dimension" />
+    <attr name="cardUseCompatPadding" format="boolean" />
+    <attr name="cardPreventCornerOverlap" format="boolean" />
+    <attr name="contentPadding" format="dimension" />
+    <attr name="contentPaddingLeft" format="dimension" />
+    <attr name="contentPaddingRight" format="dimension" />
+    <attr name="contentPaddingTop" format="dimension" />
+    <attr name="contentPaddingBottom" format="dimension" />
+    <attr name="cardBackgroundColorMask" format="color" />
+    <attr name="imageAspectRatioAdjust">
+        <enum name="adjust_height" value="2" />
+        <enum name="adjust_width" value="1" />
+        <enum name="none" value="0" />
+    </attr>
+    <attr name="imageAspectRatio" format="float" />
+    <attr name="circleCrop" format="boolean" />
+    <attr name="mapType">
+        <enum name="none" value="0" />
+        <enum name="hybrid" value="4" />
+        <enum name="normal" value="1" />
+        <enum name="satellite" value="2" />
+        <enum name="terrain" value="3" />
+    </attr>
+    <attr name="cameraBearing" format="float" />
+    <attr name="cameraTargetLat" format="float" />
+    <attr name="cameraTargetLng" format="float" />
+    <attr name="cameraTilt" format="float" />
+    <attr name="cameraZoom" format="float" />
+    <attr name="liteMode" format="boolean" />
+    <attr name="uiCompass" format="boolean" />
+    <attr name="uiRotateGestures" format="boolean" />
+    <attr name="uiScrollGestures" format="boolean" />
+    <attr name="uiTiltGestures" format="boolean" />
+    <attr name="uiZoomControls" format="boolean" />
+    <attr name="uiZoomGestures" format="boolean" />
+    <attr name="useViewLifecycle" format="boolean" />
+    <attr name="zOrderOnTop" format="boolean" />
+    <attr name="uiMapToolbar" format="boolean" />
+    <attr name="ambientEnabled" format="boolean" />
+    <attr name="cameraMinZoomPreference" format="float" />
+    <attr name="cameraMaxZoomPreference" format="float" />
+    <attr name="latLngBoundsSouthWestLatitude" format="float" />
+    <attr name="latLngBoundsSouthWestLongitude" format="float" />
+    <attr name="latLngBoundsNorthEastLatitude" format="float" />
+    <attr name="latLngBoundsNorthEastLongitude" format="float" />
+    <attr name="op_allowStacking" format="boolean" />
+    <attr name="op_backgroundTintMode">
+        <enum name="add" value="16" />
+        <enum name="multiply" value="14" />
+        <enum name="screen" value="15" />
+        <enum name="src_atop" value="9" />
+        <enum name="src_in" value="5" />
+        <enum name="src_over" value="3" />
+    </attr>
+    <attr name="op_fabSize">
+        <enum name="normal" value="0" />
+        <enum name="mini" value="1" />
+    </attr>
+    <attr name="useDisabledAlpha" format="boolean" />
+    <attr name="op_tabIndicatorColor" format="color" />
+    <attr name="op_tabIndicatorHeight" format="dimension" />
+    <attr name="op_tabContentStart" format="dimension" />
+    <attr name="op_horizontalSpacing" format="dimension" />
+    <attr name="op_tabBackground" format="reference" />
+    <attr name="op_tabMode">
+        <enum name="fixed" value="1" />
+        <enum name="scrollable" value="0" />
+    </attr>
+    <attr name="op_tabGravity">
+        <enum name="center" value="1" />
+        <enum name="fill" value="0" />
+    </attr>
+    <attr name="op_tabMinWidth" format="dimension" />
+    <attr name="op_tabMaxWidth" format="dimension" />
+    <attr name="op_tabTextAppearance" format="reference" />
+    <attr name="op_tabTextColor" format="color" />
+    <attr name="op_tabSelectedTextColor" format="color" />
+    <attr name="op_tabPaddingStart" format="dimension" />
+    <attr name="op_tabPaddingTop" format="dimension" />
+    <attr name="op_tabPaddingEnd" format="dimension" />
+    <attr name="op_tabPaddingBottom" format="dimension" />
+    <attr name="op_tabPadding" format="dimension" />
+    <attr name="OPListViewStyle" format="reference" />
+    <attr name="OPEditTextStyle" format="reference" />
+    <attr name="colorError" format="reference|color" />
+    <attr name="OPAlertDialogStyle" format="reference" />
+    <attr name="op_buttonPanelSideLayout" format="reference" />
+    <attr name="op_listLayout" format="reference" />
+    <attr name="progressLayout" format="reference" />
+    <attr name="horizontalProgressLayout" format="reference" />
+    <attr name="op_listItemLayout" format="reference" />
+    <attr name="op_multiChoiceItemLayout" format="reference" />
+    <attr name="op_singleChoiceItemLayout" format="reference" />
+    <attr name="OPFloatingActionButtonStyle" format="reference" />
+    <attr name="op_backgroundTint" format="reference|color" />
+    <attr name="op_rippleColor" format="reference|color" />
+    <attr name="op_elevation" format="reference|dimension" />
+    <attr name="op_pressedTranslationZ" format="reference|dimension" />
+    <attr name="op_borderWidth" format="reference|dimension" />
+    <attr name="OPToastStyle" format="reference" />
+    <attr name="OPSeekBarStyle" format="reference" />
+    <attr name="OPProgressBarStyle" format="reference" />
+    <attr name="textAppearanceOPNumberPickerUnit" format="reference" />
+    <attr name="OPTabLayoutStyle" format="reference" />
+    <attr name="onePlusBaseColor" format="reference|color" />
+    <attr name="onePlusTextColor" format="reference|color" />
+    <attr name="onePlusSecondaryTextColor" format="reference|color" />
+    <attr name="onePlusDisabledTextColor" format="reference|color" />
+    <attr name="onePlusDisabledColor" format="reference|color" />
+    <attr name="onePlusPrimaryColor" format="reference|color" />
+    <attr name="onePlusAccentColor" format="reference|color" />
+    <attr name="onePlusActionbarTitleColor" format="reference|color" />
+    <attr name="onePlusActionbarSubtitleColor" format="reference|color" />
+    <attr name="onePlusTabTextColor" format="reference|color" />
+    <attr name="onePlusTabTextSelectedColor" format="reference|color" />
+    <attr name="onePlusTabIndicatorColor" format="reference|color" />
+    <attr name="onePlusActionbarIconColor" format="reference|color" />
+    <attr name="onePlusActionbarBackgroundColor" format="reference|color" />
+    <attr name="onePlusActionbarLineColor" format="reference|color" />
+    <attr name="onePlusActionbarBackground" format="reference" />
+    <attr name="onePlusActionbarTitleAlpha" format="float" />
+    <attr name="onePlusActionbarSubtitleAlpha" format="float" />
+    <attr name="onePlusTabTextAlpha" format="float" />
+    <attr name="onePlusTabTextSelectedAlpha" format="float" />
+    <attr name="onePlusActionbarIconAlpha" format="float" />
+    <attr name="onePlusColorControlHighlight" format="color" />
+    <attr name="opExpanded" format="boolean" />
+    <attr name="op_state_collapsed" format="boolean" />
+    <attr name="op_state_collapsible" format="boolean" />
+    <attr name="op_layout_scrollFlags">
+        <flag name="opEnterAlways" value="0x00000004" />
+        <flag name="opEnterAlwaysCollapsed" value="0x00000008" />
+        <flag name="opExitUntilCollapsed" value="0x00000002" />
+        <flag name="opScroll" value="0x00000001" />
+        <flag name="opSnap" value="0x00000010" />
+    </attr>
+    <attr name="op_layout_scrollInterpolator" format="reference" />
+    <attr name="opExpandedTitleMargin" format="dimension" />
+    <attr name="opExpandedTitleMarginStart" format="dimension" />
+    <attr name="opExpandedTitleMarginTop" format="dimension" />
+    <attr name="opExpandedTitleMarginEnd" format="dimension" />
+    <attr name="opExpandedTitleMarginBottom" format="dimension" />
+    <attr name="opExpandedTitleTextAppearance" format="reference" />
+    <attr name="opCollapsedTitleTextAppearance" format="reference" />
+    <attr name="opContentScrim" format="color" />
+    <attr name="opStatusBarScrim" format="color" />
+    <attr name="opToolbarId" format="reference" />
+    <attr name="opScrimVisibleHeightTrigger" format="dimension" />
+    <attr name="opScrimAnimationDuration" format="integer" />
+    <attr name="opCollapsedTitleGravity">
+        <flag name="op_bottom" value="0x00000050" />
+        <flag name="op_center" value="0x00000011" />
+        <flag name="op_center_horizontal" value="0x00000001" />
+        <flag name="op_center_vertical" value="0x00000010" />
+        <flag name="op_end" value="0x00800005" />
+        <flag name="op_fill_vertical" value="0x00000070" />
+        <flag name="op_left" value="0x00000003" />
+        <flag name="op_right" value="0x00000005" />
+        <flag name="op_start" value="0x00800003" />
+        <flag name="op_top" value="0x00000030" />
+    </attr>
+    <attr name="opExpandedTitleGravity">
+        <flag name="op_bottom" value="0x00000050" />
+        <flag name="op_center" value="0x00000011" />
+        <flag name="op_center_horizontal" value="0x00000001" />
+        <flag name="op_center_vertical" value="0x00000010" />
+        <flag name="op_end" value="0x00800005" />
+        <flag name="op_fill_vertical" value="0x00000070" />
+        <flag name="op_left" value="0x00000003" />
+        <flag name="op_right" value="0x00000005" />
+        <flag name="op_start" value="0x00800003" />
+        <flag name="op_top" value="0x00000030" />
+    </attr>
+    <attr name="opTitleEnabled" format="boolean" />
+    <attr name="op_layout_collapseMode">
+        <enum name="opNone" value="0" />
+        <enum name="opParallax" value="2" />
+        <enum name="opPin" value="1" />
+    </attr>
+    <attr name="op_layout_collapseParallaxMultiplier" format="float" />
+    <attr name="opKeylines" format="reference" />
+    <attr name="opStatusBarBackground" format="reference" />
+    <attr name="op_layout_behavior" format="string" />
+    <attr name="op_layout_anchor" format="reference" />
+    <attr name="op_layout_keyline" format="integer" />
+    <attr name="op_layout_anchorGravity">
+        <flag name="op_bottom" value="0x00000050" />
+        <flag name="op_center" value="0x00000011" />
+        <flag name="op_center_horizontal" value="0x00000001" />
+        <flag name="op_center_vertical" value="0x00000010" />
+        <flag name="op_end" value="0x00800005" />
+        <flag name="op_fill_vertical" value="0x00000070" />
+        <flag name="op_left" value="0x00000003" />
+        <flag name="op_right" value="0x00000005" />
+        <flag name="op_start" value="0x00800003" />
+        <flag name="op_top" value="0x00000030" />
+        <flag name="op_clip_horizontal" value="0x00000008" />
+        <flag name="op_clip_vertical" value="0x00000080" />
+        <flag name="op_fill" value="0x00000077" />
+        <flag name="op_fill_horizontal" value="0x00000007" />
+    </attr>
+    <attr name="op_layout_insetEdge">
+        <enum name="opNone" value="0" />
+        <enum name="opBottom" value="80" />
+        <enum name="opEnd" value="8388613" />
+        <enum name="opLeft" value="3" />
+        <enum name="opRight" value="3" />
+        <enum name="opStart" value="8388611" />
+        <enum name="opTop" value="48" />
+    </attr>
+    <attr name="op_layout_dodgeInsetEdges">
+        <flag name="opNone" value="0x00000000" />
+        <flag name="opBottom" value="0x00000050" />
+        <flag name="opEnd" value="0x00800005" />
+        <flag name="opLeft" value="0x00000003" />
+        <flag name="opRight" value="0x00000003" />
+        <flag name="opStart" value="0x00800003" />
+        <flag name="opTop" value="0x00000030" />
+        <flag name="opAll" value="0x00000077" />
+    </attr>
+    <attr name="op_behavior_autoHide" format="boolean" />
+    <attr name="op_behavior_overlapTop" format="dimension" />
+    <attr name="oneplusHeaderLayout" format="reference" />
+    <attr name="headerRemoveIconIfEmpty" format="boolean" />
+    <attr name="op_preferenceScreenStyle" format="reference" />
+    <attr name="op_preferenceActivityStyle" format="reference" />
+    <attr name="op_preferenceFragmentStyle" format="reference" />
+    <attr name="op_preferenceCategoryStyle" format="reference" />
+    <attr name="op_preferenceStyle" format="reference" />
+    <attr name="op_checkBoxPreferenceStyle" format="reference" />
+    <attr name="op_dialogPreferenceStyle" format="reference" />
+    <attr name="op_editTextPreferenceStyle" format="reference" />
+    <attr name="op_ringtonePreferenceStyle" format="reference" />
+    <attr name="op_preferencePanelStyle" format="reference" />
+    <attr name="op_preferenceHeaderPanelStyle" format="reference" />
+    <attr name="op_preferenceListStyle" format="reference" />
+    <attr name="op_preferenceFragmentListStyle" format="reference" />
+    <attr name="op_switchPreferenceStyle" format="reference" />
+    <attr name="op_seekBarPreferenceStyle" format="reference" />
+    <attr name="op_layoutManager" format="string" />
+    <attr name="op_spanCount" format="integer" />
+    <attr name="op_reverseLayout" format="boolean" />
+    <attr name="op_stackFromEnd" format="boolean" />
+    <attr name="layoutManager" format="string" />
+    <attr name="spanCount" format="integer" />
+    <attr name="reverseLayout" format="boolean" />
+    <attr name="stackFromEnd" format="boolean" />
+    <attr name="fastScrollEnabled" format="boolean" />
+    <attr name="fastScrollVerticalThumbDrawable" format="reference" />
+    <attr name="fastScrollVerticalTrackDrawable" format="reference" />
+    <attr name="fastScrollHorizontalThumbDrawable" format="reference" />
+    <attr name="fastScrollHorizontalTrackDrawable" format="reference" />
+    <attr name="buttonSize" format="reference">
+        <enum name="icon_only" value="2" />
+        <enum name="standard" value="0" />
+        <enum name="wide" value="1" />
+    </attr>
+    <attr name="colorScheme" format="reference">
+        <enum name="auto" value="2" />
+        <enum name="dark" value="0" />
+        <enum name="light" value="1" />
+    </attr>
+    <attr name="scopeUris" format="reference|string" />
+</resources>

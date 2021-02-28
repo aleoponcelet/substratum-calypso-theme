@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+xmlns:android="http://schemas.android.com/apk/res/android">
+<item>
+    <shape android:shape="oval">
+        <gradient android:startColor="@*android:color/holo_orange_light" android:endColor="#00000000" android:angle="90.0" android:type="linear" />
+        <stroke android:color="@*android:color/accent_material_dark" android:width="2.2dip"/>
+    </shape>
+</item>
+<item>
+    <vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="56dp"
+        android:height="56dp"
+        android:viewportWidth="56.0"
+        android:viewportHeight="56.0">
+
+        <path
+            android:pathData="M18,18C18,16.62 19.12,15.5 20.5,15.5L35.5,15.5C36.88,15.5 38,16.62 38,18L38,38C38,39.38 36.88,40.5 35.5,40.5L20.5,40.5C19.12,40.5 18,39.38 18,38ZM20.5,38 L35.5,38 35.5,18 20.5,18ZM25.5,20.5c0,0.7 0.56,1.25 1.25,1.25l2.5,0C29.95,21.75 30.5,21.19 30.5,20.5 30.5,19.8 29.94,19.25 29.25,19.25L26.75,19.25C26.05,19.25 25.5,19.81 25.5,20.5ZM25.5,24.25c0,-0.69 0.55,-1.25 1.25,-1.25l2.5,0C29.94,23 30.5,23.55 30.5,24.25c0,0.69 -0.55,1.25 -1.25,1.25L26.75,25.5C26.06,25.5 25.5,24.95 25.5,24.25ZM25.32,27.99C25.42,27.3 26.05,26.75 26.75,26.75l2.5,0c0.69,0 1.33,0.55 1.43,1.24l0.61,4.24C31.54,34.04 30.27,35.5 28.45,35.5l-0.9,0c-1.82,0 -3.09,-1.46 -2.83,-3.27zM27.19,32.58C27.15,32.88 27.25,33 27.55,33l0.9,0c0.3,0 0.4,-0.12 0.36,-0.42L28.34,29.25l-0.67,0z"
+            android:fillType="evenOdd"
+            android:strokeColor="#00000000"
+            android:fillColor="#ffffff"
+            android:strokeWidth="1"/>
+    </vector>
+</item>
+</layer-list>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+xmlns:android="http://schemas.android.com/apk/res/android">
+<item>
+    <shape android:shape="oval">
+        <gradient android:startColor="@*android:color/holo_orange_light" android:endColor="#00000000" android:angle="90.0" android:type="linear" />
+        <stroke android:color="@*android:color/accent_material_dark" android:width="2.2dip"/>
+    </shape>
+</item>
+<item>
+    <vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="56dp"
+        android:height="56dp"
+        android:viewportWidth="56.0"
+        android:viewportHeight="56.0">
+        <path
+            android:pathData="M33.57,35.99C31.55,38.39 29,40.5 28,40.5 27,40.5 24.45,38.39 22.43,35.99 19.68,32.74 18,29.15 18,25.5 18,19.98 22.48,15.5 28,15.5c5.52,0 10,4.48 10,10 0,3.65 -1.68,7.24 -4.43,10.49zM27.16,37.19C27.53,37.5 28,37.84 28,37.84c0,0 0.53,-0.39 0.84,-0.65 0.92,-0.76 1.91,-1.74 2.82,-2.81C34.06,31.53 35.5,28.47 35.5,25.5 35.5,21.36 32.14,18 28,18 23.86,18 20.5,21.36 20.5,25.5c0,2.97 1.44,6.03 3.84,8.88 0.9,1.07 1.9,2.05 2.82,2.81zM24.25,25.5c0,-2.07 1.68,-3.75 3.75,-3.75 2.07,0 3.75,1.68 3.75,3.75 0,2.07 -1.68,3.75 -3.75,3.75 -2.07,0 -3.75,-1.68 -3.75,-3.75zM29.25,25.5c0,-0.69 -0.56,-1.25 -1.25,-1.25 -0.69,0 -1.25,0.56 -1.25,1.25 0,0.69 0.56,1.25 1.25,1.25 0.69,0 1.25,-0.56 1.25,-1.25z"
+            android:fillType="nonZero"
+            android:strokeColor="#00000000"
+            android:fillColor="#f9f9f9"
+            android:strokeWidth="1"/>
+    </vector>
+</item>
+</layer-list>

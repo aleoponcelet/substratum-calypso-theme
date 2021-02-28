@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SettingsTheme.Base" parent="@*xyz.paphonb.androidpify:style/Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@*android:color/transparent</item>
+        <item name="android:colorPrimary">@*android:color/transparent</item>
+        <item name="android:colorPrimaryDark">@*android:color/transparent</item>
+        <item name="android:colorAccent">@*android:color/accent_material_dark</item>
+        <item name="*xyz.paphonb.androidpify:actionBarTheme">@*xyz.paphonb.androidpify:style/SettingsTheme.Toolbar</item>
+        <item name="*xyz.paphonb.androidpify:preferenceTheme">@*xyz.paphonb.androidpify:style/PreferenceThemeOverlay.v14.Material</item>
+        <item name="android:colorEdgeEffect">@*android:color/accent_material_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

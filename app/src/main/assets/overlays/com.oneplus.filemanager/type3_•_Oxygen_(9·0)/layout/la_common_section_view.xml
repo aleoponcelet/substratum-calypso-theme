@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:backgroundTint="@*android:color/legacy_primary_dark"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textColor="@*com.oneplus.filemanager:color/co_section_title" android:gravity="bottom" android:id="@*com.oneplus.filemanager:id/section_time" android:paddingBottom="@*com.oneplus.filemanager:dimen/margin_bottom1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@*com.oneplus.filemanager:dimen/margin_top1" android:minHeight="@*com.oneplus.filemanager:dimen/list_item_1line" android:layout_marginStart="@*com.oneplus.filemanager:dimen/margin_left2" android:layout_alignParentStart="true" style="@*com.oneplus.filemanager:style/text_subtitle_style" />
+</RelativeLayout>

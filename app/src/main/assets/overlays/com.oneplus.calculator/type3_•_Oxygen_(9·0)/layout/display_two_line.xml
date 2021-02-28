@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oneplus.calculator.CalculatorDisplay android:orientation="vertical" android:id="@*com.oneplus.calculator:id/display" android:background="@*android:color/background_dark" android:layout_width="fill_parent" android:layout_height="wrap_content" android:elevation="2.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@*com.oneplus.calculator:layout/toolbar" />
+    <com.oneplus.calculator.CalculatorScrollView android:id="@*com.oneplus.calculator:id/formula_container" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:overScrollMode="never">
+        <com.oneplus.calculator.CalculatorFormula android:textColor="@*com.oneplus.calculator:color/op_calculator_Text_color" android:ellipsize="none" android:id="@*com.oneplus.calculator:id/formula" android:layout_width="wrap_content" android:layout_height="fill_parent" android:maxLines="1" style="@*com.oneplus.calculator:style/DisplayTextStyle.Formula" />
+    </com.oneplus.calculator.CalculatorScrollView>
+    <com.oneplus.calculator.CalculatorResult android:textColor="@*com.oneplus.calculator:color/op_calculator_Text_result_color" android:id="@*com.oneplus.calculator:id/result" android:layout_width="fill_parent" android:layout_height="wrap_content" android:bufferType="spannable" android:singleLine="true" style="@*com.oneplus.calculator:style/DisplayTextStyle.Result" />
+    <ImageView android:layout_gravity="center_horizontal" android:id="@*com.oneplus.calculator:id/arrow" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@*com.oneplus.calculator:drawable/ic_arrow_down" android:scaleType="center" android:minWidth="48.0dip" />
+</com.oneplus.calculator.CalculatorDisplay>

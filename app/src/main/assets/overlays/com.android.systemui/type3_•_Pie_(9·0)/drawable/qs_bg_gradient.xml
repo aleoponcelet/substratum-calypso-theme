@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item  android:top="1.5dip" android:bottom="3.5dip" android:left="5.0dip" android:right="5.0dip">
+        <shape android:shape="rectangle">
+            <gradient android:startColor="#E6ffffff" android:centerColor="#00000000" android:endColor="#00000000" android:angle="270.0" android:type="linear" />
+            <corners android:topLeftRadius="?android:dialogCornerRadius" android:topRightRadius="?android:dialogCornerRadius" android:bottomLeftRadius="0.0dip" android:bottomRightRadius="0.0dip" />
+        </shape>
+    </item>
+</layer-list>

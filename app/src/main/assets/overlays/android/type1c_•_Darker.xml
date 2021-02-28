@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="holo_gray_bright">#D9080808</color><!--Transparent Background-->
+    <color name="holo_purple">#730A0A0A</color><!--Sec Background-->
+    <color name="holo_blue_dark">#000001</color><!--Stroke-->
+    <color name="notification_secondary_text_color_light">#ff848484</color><!--Sec text-->
+</resources>
+

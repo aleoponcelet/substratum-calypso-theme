@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="nephilim_title">Tweaks</string>
+    <string name="nephilim_summary">Advanced settings</string>
+    <string name="rom_version_title">Rom</string>
+
+    <string name="aicpextras_settings">Tweaks</string>
+    <string name="aicpextras_dashboard_summary">Advanced settings</string>
+    <string name="aicp_name_title">Rom</string>
+</resources>

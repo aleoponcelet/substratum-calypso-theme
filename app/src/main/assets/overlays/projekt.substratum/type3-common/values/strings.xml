@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="nav_main">Substratum</string>
+    <string name="font_default_spinner">● IMPORTANT | Select a font pack</string>
+    <string name="font_spinner_set_defaults">● RESTORE</string>
+    <string name="sounds_default_spinner">● IMPORTANT | Select a sound pack</string>
+    <string name="sounds_spinner_set_defaults">● RESTORE</string>
+    <string name="changelog_title" formatted="false">%s theme | Notes</string>
+</resources>

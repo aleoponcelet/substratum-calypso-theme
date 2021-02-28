@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="taskBackground">@*android:color/transparent</color>
+    <color name="taskBorder">@*android:color/holo_blue_dark</color>
+    <color name="task_complete_swipe_background">@*android:color/holo_purple</color>
+    <color name="google_blue500">@*android:color/accent_material_dark</color>
+    <color name="google_blue600">@*android:color/accent_material_dark</color>
+    <color name="google_blue700">@*android:color/accent_material_dark</color>
+    <color name="google_blue800">@*android:color/accent_material_dark</color>
+    <color name="google_blue900">@*android:color/accent_material_dark</color>
+
+    <color name="task_due_date">#ffffff</color>
+    <color name="task_due_date_header">#ffffff</color>
+    <color name="task_due_today_date">@*android:color/accent_material_dark</color>
+    <color name="task_due_today_header">@*android:color/accent_material_dark</color>
+    <color name="task_overdue_date">@*android:color/accent_material_dark</color>
+    <color name="task_overdue_header">@*android:color/accent_material_dark</color>
+    <color name="task_snooze_swipe_background">@*android:color/accent_material_dark</color>
+    <color name="tasksListBackground">@*android:color/transparent</color>
+    <color name="textColorHint">#dddddd</color>
+    <color name="textColorPrimary">#ffffffff</color>
+    <color name="textColorTertiaryDisabled">#aaaaaa</color>
+    <color name="textColorTertiaryEnabled">#ffffff</color>
+    <color name="titleTextColor">#ffffff</color>
+    <color name="tooltip_background_dark">@*android:color/background_dark</color>
+    <color name="tooltip_background_light">@*android:color/background_dark</color>
+
+    <color name="account_menu_divider_color">@*android:color/transparent</color>
+    <color name="quantum_googblue500">@*android:color/accent_material_dark</color>
+    <color name="quantum_googred900">@*android:color/accent_material_dark</color>
+    <color name="quantum_grey900">@*android:color/accent_material_dark</color>
+    <color name="quantum_orange600">@*android:color/accent_material_dark</color>
+    <color name="quantum_white_text">#ffffffff</color>
+
+    <color name="google_white">@*android:color/background_dark</color>
+
+    <color name="google_blue100">@*android:color/button_material_dark</color>
+    <color name="google_blue50">@*android:color/button_material_dark</color>
+    <color name="colorAccent">@*android:color/accent_material_dark</color>
+    <color name="colorBackground">@*android:color/background_dark</color>
+    <color name="colorPrimary">@*android:color/transparent</color>
+    <color name="colorPrimaryDark">@*android:color/transparent</color>
+    <color name="google_grey200">@*android:color/transparent</color>
+    <color name="google_grey700">@*android:color/accent_material_dark</color>
+    <color name="google_grey800">#ffffffff</color>
+    <color name="google_grey600">#ffffffff</color>
+    <color name="google_grey900">#ffffffff</color>
+    <color name="google_grey50">@*android:color/button_material_dark</color>
+    <color name="alert_dialog_title_color">@*android:color/accent_material_dark</color>
+    <color name="google_grey500">@*android:color/accent_material_dark</color>
+
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="primary_text_default_material_light">#ffffffff</color>
+    <color name="primary_text_disabled_material_dark">#4dffffff</color>
+    <color name="primary_text_disabled_material_light">#4dffffff</color>
+    <color name="detailsTextColor">#ffffffff</color>
+    <color name="material_grey_600">#ffffffff</color>
+    <color name="material_grey_900">@*android:color/accent_material_dark</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_light">#b3ffffff</color>
+    <color name="secondary_text_disabled_material_dark">#36ffffff</color>
+    <color name="secondary_text_disabled_material_light">#36ffffff</color>
+</resources>

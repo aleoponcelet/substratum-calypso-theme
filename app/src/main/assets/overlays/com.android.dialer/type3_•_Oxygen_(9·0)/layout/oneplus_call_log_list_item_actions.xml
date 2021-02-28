@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@*com.android.dialer:id/call_log_action_container" android:background="@*com.android.dialer:drawable/oneplus_call_log_action_container_bg" android:backgroundTint="@*android:color/legacy_primary_dark" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:importantForAccessibility="yes"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.oneplus.dialer.voicemail.VoicemailPlaybackLayout android:id="@*com.android.dialer:id/voicemail_playback_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <LinearLayout android:id="@*com.android.dialer:id/all_action_container" style="@*com.android.dialer:style/OneplusCallLogActionStyle">
+        <ImageView android:id="@*com.android.dialer:id/create_new_contact_action" android:src="@*com.android.dialer:drawable/oneplus_ic_person_add_white_24px" style="@*com.android.dialer:style/OPCallLogActionButtonStyle" />
+        <ImageView android:id="@*com.android.dialer:id/details_action" android:src="@*com.android.dialer:drawable/oneplus_ic_info_outline_24px" style="@*com.android.dialer:style/OPCallLogActionButtonStyle" />
+        <ImageView android:id="@*com.android.dialer:id/send_message_action" android:src="@*com.android.dialer:drawable/oneplus_ic_message_white_24px" style="@*com.android.dialer:style/OPCallLogActionButtonStyle" />
+        <ImageView android:id="@*com.android.dialer:id/call_action" android:src="@*com.android.dialer:drawable/oneplus_ic_call_white_24px" style="@*com.android.dialer:style/OPCallLogActionButtonStyle" />
+        <ImageView android:id="@*com.android.dialer:id/call_action_sim1" android:src="@*com.android.dialer:drawable/oneplus_ic_call_sim1_white_24px" style="@*com.android.dialer:style/OPCallLogActionButtonStyle" />
+        <ImageView android:id="@*com.android.dialer:id/call_action_sim2" android:src="@*com.android.dialer:drawable/oneplus_ic_call_sim2_white_24px" style="@*com.android.dialer:style/OPCallLogActionButtonStyle" />
+        <ImageView android:id="@*com.android.dialer:id/video_call_action" android:src="@*com.android.dialer:drawable/oneplus_ic_videocam_white_24px" style="@*com.android.dialer:style/OPCallLogActionButtonStyle" />
+        <ImageView android:id="@*com.android.dialer:id/call_with_note_action" android:src="@*com.android.dialer:drawable/ic_call_note_white_24dp" style="@*com.android.dialer:style/OPCallLogActionButtonStyle" />
+    </LinearLayout>
+</LinearLayout>

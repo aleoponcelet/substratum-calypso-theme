@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DeskClock" parent="@*com.android.deskclock:style/Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@*android:color/background_dark</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="*com.android.deskclock:colorAccent">@*android:color/accent_material_dark</item>
+        <item name="*com.android.deskclock:colorBackgroundFloating">@*android:color/holo_purple</item>
+        <item name="*com.android.deskclock:colorControlActivated">@android:color/white</item>
+        <item name="*com.android.deskclock:colorControlNormal">@*android:color/accent_material_dark</item>
+        <item name="*com.android.deskclock:colorPrimaryDark">@*android:color/transparent</item>
+        <item name="*com.android.deskclock:imageButtonStyle">@*com.android.deskclock:style/Widget.ImageButton</item>
+        <item name="*com.android.deskclock:popupTheme">@*com.android.deskclock:style/ThemeOverlay.Popup</item>
+    </style>
+    <style name="PopupMenu" parent="@*android:style/Theme.DeviceDefault.Settings.Dark.NoActionBar" />
+    <style name="TimeLabelTextAppearance" parent="@*android:style/TextAppearance.Material">
+        <item name="android:textSize">60.0sp</item>
+        <item name="android:textColor">@*android:color/white</item>
+    </style>
+    <style name="AmPmTextAppearance" parent="@*android:style/TextAppearance.Material">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@*android:color/white</item>
+    </style>
+
+</resources>

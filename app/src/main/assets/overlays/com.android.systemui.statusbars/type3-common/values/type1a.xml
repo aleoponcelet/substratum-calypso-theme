@@ -1,0 +1,11 @@
+<resources>
+
+    <color name="dark_mode_icon_color_dual_tone_background">#4d999999</color>
+    <color name="dark_mode_icon_color_dual_tone_fill">@*android:color/notification_secondary_text_color_light</color>
+    <color name="dark_mode_icon_color_single_tone">@*android:color/notification_secondary_text_color_light</color>
+
+    <color name="light_mode_icon_color_dual_tone_background">#4dffffff</color>
+    <color name="light_mode_icon_color_dual_tone_fill">#ffffffff</color>
+    <color name="light_mode_icon_color_single_tone">#ffffffff</color>
+
+</resources>

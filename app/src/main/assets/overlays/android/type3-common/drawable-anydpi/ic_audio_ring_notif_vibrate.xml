@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+	android:width="24dp"
+	android:height="24dp"
+	android:viewportWidth="48.0"
+	android:viewportHeight="48.0">
+	<path
+		android:pathData="M12,40L12,8C12,5.79 13.79,4 15.99,4L32.01,4C34.21,4 36,5.79 36,8L36,40C36,42.21 34.21,44 32.01,44L15.99,44C13.79,44 12,42.21 12,40ZM32,8L16,8L16,40L32,40L32,8ZM6,11.99C6,10.89 6.89,10 8,10C9.1,10 10,10.9 10,11.99L10,36.01C10,37.11 9.11,38 8,38C6.9,38 6,37.1 6,36.01L6,11.99ZM38,11.99C38,10.89 38.89,10 40,10C41.1,10 42,10.9 42,11.99L42,36.01C42,37.11 41.11,38 40,38C38.9,38 38,37.1 38,36.01L38,11.99ZM0,15.99C0,14.89 0.89,14 2,14C3.1,14 4,14.9 4,15.99L4,32.01C4,33.11 3.11,34 2,34C0.9,34 0,33.1 0,32.01L0,15.99ZM44,15.99C44,14.89 44.89,14 46,14C47.1,14 48,14.9 48,15.99L48,32.01C48,33.11 47.11,34 46,34C44.9,34 44,33.1 44,32.01L44,15.99Z"
+		android:strokeColor="#00000000"
+		android:fillType="nonZero"
+		android:fillColor="@*android:color/material_blue_grey_900"
+		android:strokeWidth="1"/>
+</vector>

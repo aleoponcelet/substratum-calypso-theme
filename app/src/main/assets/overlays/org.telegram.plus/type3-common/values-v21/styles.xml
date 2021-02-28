@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TMessages" parent="@*android:style/Theme.Material">
+        <item name="android:colorBackground">@*android:color/material_grey_800</item>
+        <item name="android:windowBackground">@*android:color/material_grey_800</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:listViewStyle">@null</item>
+        <item name="android:itemTextAppearance">@null</item>
+        <item name="android:listDivider">@*android:color/transparent</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionBarOverlay">false</item>
+        <item name="android:listChoiceBackgroundIndicator">@null</item>
+        <item name="android:alertDialogTheme">@null</item>
+        <item name="android:datePickerStyle">@null</item>
+        <item name="android:calendarViewStyle">@null</item>
+        <item name="android:actionBarItemBackground">@null</item>
+        <item name="android:tintMode">src_atop</item>
+        <item name="android:colorControlActivated">@*android:color/accent_material_dark</item>
+        <item name="android:colorPrimary">@*android:color/material_grey_800</item>
+        <item name="android:colorPrimaryDark">@*android:color/material_grey_800</item>
+        <item name="android:navigationBarColor">@*android:color/material_grey_800</item>
+        <item name="android:backgroundTint">@*android:color/material_grey_800</item>
+        <item name="android:datePickerDialogTheme">@null</item>
+    </style>
+    <style name="Theme.TMessages.Start" parent="@*android:style/Theme.Material">
+        <item name="android:colorBackground">@*android:color/material_grey_800</item>
+        <item name="android:windowBackground">@*android:color/material_grey_800</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:listDivider">@*android:color/transparent</item>
+        <item name="android:actionBarStyle">@null</item>
+        <item name="android:tintMode">src_atop</item>
+        <item name="android:colorPrimary">@*android:color/material_grey_800</item>
+        <item name="android:colorPrimaryDark">@*android:color/material_grey_800</item>
+        <item name="android:navigationBarColor">@*android:color/material_grey_800</item>
+        <item name="android:backgroundTint">@*android:color/material_grey_800</item>
+    </style>
+</resources>

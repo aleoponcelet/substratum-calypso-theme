@@ -1,0 +1,5 @@
+<resources>
+    <!-- Navbar and statusbar -->
+    <color name="light_mode_icon_color_dual_tone_fill">#ffffff</color>
+    <dimen name="key_button_ripple_max_width">0dp</dimen>
+</resources>

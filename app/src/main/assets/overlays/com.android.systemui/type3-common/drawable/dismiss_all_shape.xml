@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android" android:color="#000000">
+   <item>
+      <vector xmlns:android="http://schemas.android.com/apk/res/android"
+          android:width="24dp"
+          android:height="24dp"
+          android:viewportWidth="48.0"
+          android:viewportHeight="48.0">
+         <path
+             android:pathData="m24,22.59 l2.48,-2.48c0.39,-0.39 1.02,-0.39 1.41,0 0.39,0.39 0.39,1.02 0,1.41L25.41,24l2.48,2.48c0.39,0.39 0.39,1.02 -0,1.41 -0.39,0.39 -1.02,0.39 -1.41,0L24,25.41 21.52,27.89c-0.39,0.39 -1.02,0.39 -1.41,-0 -0.39,-0.39 -0.39,-1.02 -0,-1.41L22.59,24 20.11,21.52c-0.39,-0.39 -0.39,-1.02 0,-1.41 0.39,-0.39 1.02,-0.39 1.41,-0zM24,34C18.48,34 14,29.52 14,24 14,18.48 18.48,14 24,14 29.52,14 34,18.48 34,24 34,29.52 29.52,34 24,34ZM24,32C28.42,32 32,28.42 32,24 32,19.58 28.42,16 24,16 19.58,16 16,19.58 16,24c0,4.42 3.58,8 8,8z"
+             android:fillType="evenOdd"
+             android:strokeColor="#00000000"
+             android:fillColor="#ffffff"
+             android:strokeWidth="1"/>
+      </vector>
+
+   </item>
+</ripple>

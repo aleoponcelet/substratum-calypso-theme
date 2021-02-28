@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="search_panel_elevation">0.0dip</dimen>
+    <dimen name="divider_margin_top">0.0dip</dimen>
+    <dimen name="divider_margin_bottom">0.0dip</dimen>
+    <dimen name="suw_glif_card_elevation">0.0dip</dimen>
+    <dimen name="suw_card_elevation">0.0dip</dimen>
+    <dimen name="suw_title_area_elevation">0.0dip</dimen>
+    <dimen name="suw_header_elevation_hack">0.0dip</dimen>
+    <dimen name="cardview_default_elevation">0.0dip</dimen>
+    <dimen name="cardview_default_radius">6.0dip</dimen>
+    <dimen name="toolbar_elevation">0.0dip</dimen>
+    <dimen name="op_divider_height_standard">0.0dip</dimen>
+    <dimen name="oneplus_contorl_divider_height_standard">0.0dip</dimen>
+    <dimen name="oneplus_contorl_shadow_z5">0.0dip</dimen>
+    <dimen name="oneplus_contorl_shadow_z4">0.0dip</dimen>
+    <dimen name="oneplus_contorl_shadow_z3">0.0dip</dimen>
+    <dimen name="oneplus_contorl_shadow_z2">0.0dip</dimen>
+    <dimen name="oneplus_contorl_shadow_z1">0.0dip</dimen>
+    <dimen name="dashboard_tile_image_size">38.0dip</dimen>
+    <dimen name="dashboard_tile_foreground_image_size">20.0dip</dimen>
+    <dimen name="dashboard_tile_foreground_image_inset">9.0dip</dimen>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <gradient android:startColor="@*android:color/holo_orange_light" android:endColor="#00000000" android:angle="90.0" android:type="linear" />
+            <stroke android:color="@*android:color/holo_blue_dark" android:width="2.2dip"/>
+            <size android:height="@*com.android.settings:dimen/dashboard_tile_image_size" android:width="@*com.android.settings:dimen/dashboard_tile_image_size" />
+        </shape>
+    </item>
+    <item
+        android:height="@*com.android.settings:dimen/dashboard_tile_foreground_image_size"
+        android:width="@*com.android.settings:dimen/dashboard_tile_foreground_image_size"
+        android:top="@*com.android.settings:dimen/dashboard_tile_foreground_image_inset"
+        android:start="@*com.android.settings:dimen/dashboard_tile_foreground_image_inset" >
+        <vector xmlns:android="http://schemas.android.com/apk/res/android"
+            android:width="24dp"
+            android:height="24dp"
+            android:viewportWidth="48"
+            android:viewportHeight="48">
+            <path
+                android:pathData="M40,28.0554C40,23.7533 38.2645,20.6163 35.2299,18.0579C34.3487,17.315 31.9741,15.6632 31.7848,15.4939C29.0243,13.0248 27.9682,10.7328 28.9931,6.4727C29.3886,4.8288 27.6926,3.4663 26.1726,4.2069C19.6074,7.4056 16.9449,14.1386 17.458,20.1254C16.6887,19.0175 16.1607,17.5723 15.9887,15.8746C15.7973,13.9851 13.3273,13.4011 12.31,15.0048C9.0952,20.0728 8,23.1219 8,28.0554C8,37.0134 15.2115,44.0761 24.023,44.0761C32.8266,44.0761 40,37.0182 40,28.0554ZM12,28.0554C12,23.9823 12.8451,22.5362 13.4325,21.1459C14.9603,24.1065 17.4601,26.0405 19.989,26.0405C21.2636,26.0405 22.213,24.8642 21.944,23.6183C20.2085,15.5817 23.2875,11.5208 24.6275,10.2146C24.8476,13.5805 26.4678,16.1048 29.1181,18.4753C29.5373,18.8502 31.9768,20.5471 32.6516,21.1161C34.8493,22.9689 36,25.0489 36,28.0554C36,34.7944 30.6319,40.0761 24.023,40.0761C17.4021,40.0761 12,34.7854 12,28.0554Z"
+                android:strokeWidth="1"
+                android:fillColor="@*android:color/material_blue_grey_900"
+                android:fillType="nonZero"
+                android:strokeColor="#00000000"/>
+        </vector>
+    </item>
+</layer-list>

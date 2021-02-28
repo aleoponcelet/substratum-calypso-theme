@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DialogStyle" parent="@style/Theme.AppCompat.Dialog.Alert" >
+        <item name="android:windowBackground">@drawable/dialog_background</item>
+        <item name="android:colorAccent">@*android:color/accent_material_dark</item>
+    </style>
+    <string name="launch_dialog_title">Calypso</string>
+    <string name="launch_dialog_content">
+        ● Changelog 2.5\n
+        -Improved Android-Pie\n
+        -Added Support to OxygenOS Pie\n
+        -Improved Whatsapp\n
+        -Improved Calculator\n
+        -Improved Gmail\n
+        -Improved Play services\n
+        -Improved Substratum\n
+        -Added missing icons\n
+        -Bug fixes
+    </string>
+    <string name="launch_dialog_positive">OK</string>
+    <string name="launch_dialog_negative">HELP</string>
+    <string name="launch_dialog_negative_url">https://t.me/SUBSAlex</string>
+</resources>

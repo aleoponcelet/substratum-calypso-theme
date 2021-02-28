@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <gradient android:startColor="@*android:color/holo_orange_light" android:endColor="#00000000" android:angle="90.0" android:type="linear" />
+            <stroke android:color="@*android:color/accent_material_dark" android:width="2.2dip"/>
+            <size android:height="@*com.android.settings:dimen/dashboard_tile_image_size" android:width="@*com.android.settings:dimen/dashboard_tile_image_size" />
+        </shape>
+    </item>
+    <item
+        android:height="@*com.android.settings:dimen/dashboard_tile_foreground_image_size"
+        android:width="@*com.android.settings:dimen/dashboard_tile_foreground_image_size"
+        android:drawable="@*com.android.settings:drawable/ic_settings_wireless_white"
+        android:top="@*com.android.settings:dimen/dashboard_tile_foreground_image_inset"
+        android:start="@*com.android.settings:dimen/dashboard_tile_foreground_image_inset" />
+</layer-list>

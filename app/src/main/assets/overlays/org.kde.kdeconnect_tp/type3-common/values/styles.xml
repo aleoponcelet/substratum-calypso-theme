@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="darkGrey">#555555</color>
+    <color name="darkToolbarBackground">@*android:color/background_dark</color>
+    <color name="darkStatusBarBackground">@*android:color/background_dark</color>
+    <color name="material_grey_850">@*android:color/background_dark</color>
+    <color name="primary">@*android:color/accent_material_dark</color>
+
+    <!-- KdeConnectThemeBase styles must only be defined in the main res/values/ folder -->
+    <style name="KdeConnectThemeBase.Dark" parent="@*org.kde.kdeconnect_tp:style/Theme.AppCompat">
+        <item name="@*org.kde.kdeconnect_tp:colorPrimary">@*android:color/transparent</item>
+        <item name="@*org.kde.kdeconnect_tp:colorPrimaryDark">@*android:color/transparent</item>
+        <item name="@*org.kde.kdeconnect_tp:colorAccent">@*android:color/accent_material_dark</item>
+        <item name="android:windowBackground">@*android:color/background_dark</item>
+        <item name="@*org.kde.kdeconnect_tp:toolbarStyle">@*org.kde.kdeconnect_tp:style/KdeConnectTheme.Toolbar.Dark</item>
+        <item name="@*org.kde.kdeconnect_tp:popupTheme">@*org.kde.kdeconnect_tp:style/ThemeOverlay.AppCompat</item>
+        <item name="@*org.kde.kdeconnect_tp:mainNavigationViewStyle">@*org.kde.kdeconnect_tp:style/MainNavigationView.Dark</item>
+        <item name="@*org.kde.kdeconnect_tp:colorHighContrast">@*android:color/white</item>
+        <item name="android:textColorPrimary">@*android:color/white</item>
+        <item name="android:textColor">@*android:color/white</item>
+    </style>
+    <style name="KdeConnectTheme.Toolbar.Dark" parent="@*org.kde.kdeconnect_tp:style/KdeConnectTheme.Toolbar">
+        <item name="android:background">@*android:color/transparent</item>
+    </style>
+</resources>

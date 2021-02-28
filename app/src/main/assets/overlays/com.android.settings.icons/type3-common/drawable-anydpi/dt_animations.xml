@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="60dp"
+    android:height="60dp"
+    android:viewportWidth="48.0"
+    android:viewportHeight="48.0">
+    <path
+        android:pathData="M42,8L42,14C42,15.1 41.11,16 40,16C38.9,16 38,15.11 38,14L38,10L34,10C32.9,10 32,9.11 32,8C32,6.9 32.89,6 34,6L40,6C40.55,6 41.05,6.22 41.41,6.58C41.78,6.94 42,7.44 42,8ZM42,28L42,22C42,20.89 41.1,20 40,20C38.89,20 38,20.9 38,22L38,26L34,26C32.89,26 32,26.9 32,28C32,29.11 32.9,30 34,30L40,30C40.56,30 41.06,29.78 41.42,29.41C41.78,29.05 42,28.55 42,28ZM18,8L18,14C18,15.11 18.9,16 20,16C21.11,16 22,15.1 22,14L22,10L26,10C27.11,10 28,9.1 28,8C28,6.89 27.1,6 26,6L20,6C19.44,6 18.94,6.22 18.58,6.59C18.22,6.95 18,7.45 18,8ZM6,20C6,18.9 6.9,18 8,18L28,18C29.1,18 30,18.9 30,20L30,40C30,41.1 29.1,42 28,42L8,42C6.9,42 6,41.1 6,40L6,20ZM9.99,38L26,38.02L26.01,22L10.03,22L9.99,38Z"
+        android:strokeColor="#00000000"
+        android:fillType="evenOdd"
+        android:fillColor="@*android:color/material_blue_grey_900"
+        android:strokeWidth="1"/>
+</vector>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.GoogleMaterial.BottomAppBar" parent="@*com.google.android.apps.tasks:style/Widget.MaterialComponents.BottomAppBar">
+        <item name="*com.google.android.apps.tasks:fabCradleMargin">@*com.google.android.apps.tasks:dimen/google_bottomappbar_fab_cradle_margin</item>
+        <item name="*com.google.android.apps.tasks:fabCradleRoundedCornerRadius">@*com.google.android.apps.tasks:dimen/google_bottomappbar_fab_cradle_rounded_corner_radius</item>
+        <item name="*com.google.android.apps.tasks:fabCradleVerticalOffset">@*com.google.android.apps.tasks:dimen/google_bottomappbar_fab_cradle_vertical_offset</item>
+        <item name="*com.google.android.apps.tasks:backgroundTint">@*android:color/holo_purple</item>
+    </style>
+    <style name="Widget.MaterialComponents.BottomAppBar" parent="@*com.google.android.apps.tasks:style/Widget.AppCompat.Toolbar">
+       <item name="*com.google.android.apps.tasks:fabAttached">true</item>
+       <item name="*com.google.android.apps.tasks:fabCradleMargin">@*com.google.android.apps.tasks:dimen/mtrl_bottomappbar_fab_cradle_margin</item>
+       <item name="*com.google.android.apps.tasks:fabCradleRoundedCornerRadius">@*com.google.android.apps.tasks:dimen/mtrl_bottomappbar_fab_cradle_rounded_corner_radius</item>
+       <item name="*com.google.android.apps.tasks:fabCradleVerticalOffset">@*com.google.android.apps.tasks:dimen/mtrl_bottomappbar_fab_cradle_vertical_offset</item>
+       <item name="*com.google.android.apps.tasks:backgroundTint">@*android:color/holo_purple</item>
+    </style>
+    <style name="BottomAppBar" parent="@*com.google.android.apps.tasks:style/Widget.GoogleMaterial.BottomAppBar">
+        <item name="*com.google.android.apps.tasks:fabAttached">false</item>
+        <item name="*com.google.android.apps.tasks:fabCradleMargin">0.0dip</item>
+        <item name="*com.google.android.apps.tasks:fabCradleRoundedCornerRadius">0.0dip</item>
+        <item name="*com.google.android.apps.tasks:backgroundTint">@*android:color/holo_purple</item>
+        <item name="*com.google.android.apps.tasks:backgroundTintMode">src_over</item>
+    </style>
+    <style name="BaseFooterActionItemStyle">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ffdddddd</item>
+    </style>
+    
+</resources>

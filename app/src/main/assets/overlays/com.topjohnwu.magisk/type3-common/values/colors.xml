@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<color name="primary">@*android:color/background_dark</color>
+    <color name="primary_dark">@*android:color/background_dark</color>
+	<color name="accent">@*android:color/accent_material_dark</color>
+	<color name="accent_material_dark">@*android:color/accent_material_dark</color>
+    <color name="accent_material_light">@*android:color/accent_material_dark</color>
+	<color name="green500">@*android:color/accent_material_dark</color>
+	<!-- Dark theme -->
+	<color name="dh_primary">@*android:color/primary_material_dark</color>
+    <color name="dh_primary_dark">@*android:color/primary_dark_material_dark</color>
+	<color name="dh_accent">@*android:color/accent_material_dark</color>
+	<color name="background_floating_material_light">@*android:color/holo_purple</color>
+	<color name="dh_icons">@*android:color/accent_material_dark</color>
+	<color name="primary_material_dark">@*android:color/accent_material_dark</color>
+
+	<color name="material_deep_teal_200">@*android:color/accent_material_light</color>
+	<color name="material_deep_teal_500">@*android:color/accent_material_dark</color>
+
+	<!-- Main bg background -->
+	<color name="material_grey_850">@*android:color/background_dark</color>
+<color name="accentFallback">@*android:color/accent_material_light</color>
+<color name="icon_grey">#ffffffff</color>
+<color name="red500">#995458</color>
+<color name="grey500">@*android:color/primary_dark_material_dark</color>
+<color name="blue500">@*android:color/accent_material_light</color>
+<color name="yellow500">@*android:color/accent_material_light</color>
+
+<color name="dark_secondary_text">#b3ffffff</color>
+
+<color name="su_request_background">@*android:color/background_dark</color>
+
+	<color name="highlighted_text_material_dark">@*android:color/highlighted_text_dark</color>
+	<color name="highlighted_text_material_light">@*android:color/highlighted_text_dark</color>
+	<color name="background_floating_material_dark">@*android:color/holo_purple</color>
+	<color name="ripple_material_dark">@*android:color/highlighted_text_dark</color>
+	<color name="ripple_material_light">@*android:color/highlighted_text_dark</color>
+</resources>

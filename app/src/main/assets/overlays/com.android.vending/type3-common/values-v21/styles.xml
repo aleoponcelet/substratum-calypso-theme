@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>  
+    <style name="PlayDrawerProfileNameText" parent="">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="PlayMediumPlainText">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+    <style name="Platform.AppCompat.Dialog" parent="@android:style/Theme.Material.Dialog">
+		<item name="android:colorBackground">@*android:color/holo_purple</item>
+	</style>
+    <style name="Platform.AppCompat.Light.Dialog" parent="@android:style/Theme.Material.Dialog">
+		<item name="android:colorBackground">@*android:color/holo_purple</item>
+	</style>
+    <style name="Platform.AppCompat.Light" parent="@*android:style/Theme.DeviceDefault.Settings.Dark.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:navigationBarColor">@*android:color/transparent</item>
+        <item name="android:colorBackground">@*android:color/background_dark</item>
+    </style>
+    <style name="Play_MyApps_ActionButton" parent="@*com.android.vending:style/PlayMediumPlainText">
+        <item name="android:textSize">@*com.android.vending:dimen/play_price_small_size</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">@*com.android.vending:dimen/play_card_myapps_inset_margin</item>
+        <item name="android:minWidth">@*com.android.vending:dimen/play_card_myapps_action_button_width_min</item>
+        <item name="android:minHeight">@*com.android.vending:dimen/play_card_myapps_action_button_height_min</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:elevation">0.0dip</item>
+        <item name="*com.android.vending:action_xpadding">12.0dip</item>
+        <item name="*com.android.vending:action_top_padding">0.0dip</item>
+        <item name="*com.android.vending:action_bottom_padding">0.0dip</item>
+    </style>
+    <style name="SettingsTheme" parent="@*com.android.vending:style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:textAppearanceMedium">@*com.android.vending:style/DarkerMedium</item>
+        <item name="android:windowBackground">@*android:color/background_dark</item>
+        <item name="android:statusBarColor">@*android:color/transparent</item>
+        <item name="*com.android.vending:uicDelegateToSupportLibAlertDialog">true</item>
+        <item name="*com.android.vending:colorPrimary">@*android:color/transparent</item>
+        <item name="*com.android.vending:colorPrimaryDark">@*android:color/transparent</item>
+    </style>
+</resources>

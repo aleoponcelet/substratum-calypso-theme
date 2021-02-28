@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="z_distance_between_notifications">300.0dip</dimen>
+	<dimen name="recents_task_view_rounded_corners_radius">8.0dip</dimen>
+	<dimen name="recents_task_view_shadow_rounded_corners_radius">8.0dip</dimen>
+	<dimen name="notification_divider_height">4.0dip</dimen>
+	<dimen name="volume_offset_top">4.5dip</dimen>
+	<dimen name="status_bar_clock_end_padding">7.0dip</dimen>
+	<dimen name="status_bar_padding_start">15.0dip</dimen>
+	<dimen name="notification_shadow_radius">8.5dip</dimen>
+	<dimen name="fab_elevation">0.0dip</dimen>
+	<dimen name="status_bar_header_height">135.0dip</dimen>
+	<dimen name="qs_header_system_icons_area_height">24.0dip</dimen>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="user_icon_1">@*android:color/accent_material_dark</color>
+    <color name="user_icon_2">@*android:color/accent_material_dark</color>
+    <color name="user_icon_3">@*android:color/accent_material_dark</color>
+    <color name="user_icon_4">@*android:color/accent_material_dark</color>
+    <color name="user_icon_5">@*android:color/accent_material_dark</color>
+    <color name="user_icon_6">@*android:color/accent_material_dark</color>
+    <color name="user_icon_7">@*android:color/accent_material_dark</color>
+    <color name="user_icon_8">@*android:color/accent_material_dark</color>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_stacked_tab_max_width">0.0dip</dimen>
+    <dimen name="cardview_default_elevation">0.0dip</dimen>
+    <dimen name="design_appbar_elevation">0.0dip</dimen>
+    <dimen name="design_bottom_navigation_elevation">0.0dip</dimen>
+    <dimen name="design_bottom_sheet_modal_elevation">0.0dip</dimen>
+    <dimen name="design_fab_elevation">0.0dip</dimen>
+    <dimen name="appbar_layout_elevation">0.0dip</dimen>
+    <dimen name="section_list_drawer_elevation">0.0dip</dimen>
+    <dimen name="mealbar_elevation">0.0dip</dimen>
+    <dimen name="design_snackbar_elevation">0.0dip</dimen>
+    <dimen name="design_navigation_elevation">0.0dip</dimen>
+    <dimen name="overlay_play_pause_replay_button_size">64.0dip</dimen>
+    <dimen name="spotlight_story_play_button_bg_height">64.0dip</dimen>
+    <dimen name="spotlight_story_play_button_bg_width">64.0dip</dimen>
+	<dimen name="abc_seekbar_track_background_height_material">6.0dip</dimen>
+    <dimen name="abc_seekbar_track_progress_height_material">6.0dip</dimen>
+	<dimen name="medium_icon_container_40dp">42.0dip</dimen>
+	<dimen name="medium_icon_24dp">25.0dip</dimen>
+    <dimen name="buffering_overlay_progress_thickness">2.5dip</dimen>
+    <dimen name="alignment_marker_thickness">4.0dip</dimen>
+    <dimen name="material_progress_circle_inset_large">4.0dip</dimen>
+    <dimen name="material_progress_circle_inset_medium">4.0dip</dimen>
+    <dimen name="material_progress_circle_inset_small">2.0dip</dimen>
+    <dimen name="material_progress_circle_size_large">56.0dip</dimen>
+    <dimen name="material_progress_circle_size_medium">48.0dip</dimen>
+    <dimen name="material_progress_circle_size_small">36.0dip</dimen>
+    <dimen name="material_progress_circle_stroke_width_large">5.0dip</dimen>
+    <dimen name="material_progress_circle_stroke_width_medium">4.0dip</dimen>
+    <dimen name="material_progress_circle_stroke_width_small">3.5dip</dimen>
+    <dimen name="material_progress_linear_bar_height">6.0dip</dimen>
+    <dimen name="material_progress_linear_inset">6.0dip</dimen>
+</resources>
+

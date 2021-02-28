@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@*com.oneplus.note:id/quick_note_layout" android:background="@*com.oneplus.note:drawable/quick_note_widget_background" android:paddingLeft="@*com.oneplus.note:dimen/oneplus_contorl_layout_margin_left2" android:paddingRight="@*com.oneplus.note:dimen/oneplus_contorl_layout_margin_right2" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@*com.oneplus.note:id/quick_add_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@*com.oneplus.note:drawable/widget_add_icon" android:tint="@*android:color/accent_material_dark" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+    <TextView android:textColor="@*com.oneplus.note:color/quick_widget_text_color" android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginTop="17.0dip" android:layout_marginBottom="17.0dip" android:text="@*com.oneplus.note:string/quick_note_message" android:layout_toRightOf="@*com.oneplus.note:id/quick_add_icon" style="@*com.oneplus.note:style/oneplus_contorl_text_style_subheading" />
+</RelativeLayout>

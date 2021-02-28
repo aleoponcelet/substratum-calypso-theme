@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="participant_list_detail_text_size">14.0sp</dimen>
+    <dimen name="participant_list_text_size">16.0sp</dimen>
+    <dimen name="fab_padding_bottom">4.0dip</dimen>
+    <dimen name="action_bar_elevation">0.0dip</dimen>
+</resources>

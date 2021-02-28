@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_blue">@*android:color/transparent</color>
+    <color name="main_blue_darker">@*android:color/transparent</color>
+    <color name="main_blue_60">@*android:color/transparent</color>
+    <color name="blue_background">#414d5b</color>
+    <color name="other_blue">#5b6b7e</color>
+
+    <color name="window_background">@*android:color/background_dark</color>
+
+    <color name="scrim">#99323232</color>
+    <color name="black_overlay">#66000000</color>
+</resources>

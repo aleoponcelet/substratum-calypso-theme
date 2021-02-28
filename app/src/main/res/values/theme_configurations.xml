@@ -1,0 +1,19 @@
+<resources>
+    <string name="ThemeName">Calypso</string>
+    <string name="ThemeAuthor">Alejandro Ponce</string>
+    <string name="ThemeAuthorEmail">mackuze@gmail.com</string>
+    <string name="ThemeWallpaperSource">https://gitlab.com/itss.aalex/Subs_Walls/raw/master/Calypso/Calypso.xml</string>
+    <bool name="ThemeSupportLegacy">true</bool>
+    <bool name="ThemeSupportSamsung">false</bool>
+    <string name="ThemeHeroOverride">auto</string>
+    <string-array name="ThemeChangelog">
+        <item>✖ BACKGROUND COLORS</item>
+        <item>  Amoled | 0% Transparency</item>
+        <item>  Grey | 15% Transparency</item>
+        <item>  Darker | 25% Transparency</item>
+        <item>  Light | 40% Transparency</item>
+
+        <item>✖ WALLPAPERS | Each wallpaper weighs around 5MB</item>
+        <item>✖ BUGS | mackuze@gmail.com</item>
+    </string-array>
+</resources>

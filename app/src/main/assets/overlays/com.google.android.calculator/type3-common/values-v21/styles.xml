@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme" parent="@*com.google.android.calculator:style/Theme.AppCompat.Light">
+        <item name="android:windowBackground">@*android:color/background_dark</item>
+        <item name="android:colorForeground">#ffffffff</item>
+        <item name="android:colorBackground">@*android:color/holo_purple</item>
+        <item name="android:backgroundTint">@*android:color/background_dark</item>
+        <item name="android:textColorPrimary">#ffffffff</item>
+        <item name="android:textColorSecondary">#ffdddddd</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:popupBackground">@*android:color/holo_purple</item>
+        <item name="android:windowSoftInputMode">stateAlwaysHidden</item>
+        <item name="android:statusBarColor">@*android:color/transparent</item>
+        <item name="android:navigationBarColor">@*android:color/transparent</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="*com.google.android.calculator:colorPrimary">@*android:color/accent_material_dark</item>
+        <item name="*com.google.android.calculator:colorAccent">@*android:color/accent_material_dark</item>
+
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+</resources>

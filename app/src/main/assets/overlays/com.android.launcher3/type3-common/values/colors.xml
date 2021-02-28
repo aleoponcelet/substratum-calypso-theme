@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="settings_bg_color">@*android:color/background_dark</color>
+    <color name="settings_header_text">@*android:color/accent_material_dark</color>
+    <color name="settings_bg_header_color">@*android:color/background_dark</color>
+
+    <color name="app_drawer_drag_background">@*android:color/background_dark</color>
+    <color name="folder_background">@*android:color/background_dark</color>
+    <color name="scrubber_background">@*android:color/background_dark</color>
+    <color name="launcher_accent_color">@*android:color/accent_material_dark</color>
+
+    <color name="search_box_input_text_color">#ffffffff</color>
+    <color name="search_box_input_hint_text_color">#ffffffff</color>
+
+    <color name="quantum_panel_text_color">#ffffffff</color>
+    <color name="quantum_panel_text_color_dark">#ffffffff</color>
+    <color name="quantum_panel_bg_color">@*android:color/background_dark</color>
+    <color name="quantum_panel_bg_color_dark">@*android:color/background_dark</color>
+
+    <color name="all_apps_container_color">@*android:color/background_dark</color>
+    <color name="all_apps_navbar_color">@*android:color/background_dark</color>
+
+    <color name="widgets_view_section_text_color">#ffffffff</color>
+    <color name="widgets_view_item_text_color">#ffffffff</color>
+    <color name="widgets_cell_color">@*android:color/background_dark</color>
+
+    <color name="all_apps_searchbar_extended_edit_text_color">#ffffffff</color>
+    <color name="all_apps_searchbar_extended_edit_hint_color">#ffffffff</color>
+
+    <color name="all_apps_grid_section_text_color">@*android:color/accent_material_dark</color>
+    <color name="all_apps_grid_section_text_color_dark">@*android:color/accent_material_dark</color>
+    <color name="all_apps_search_market_button_focused_bg_color">#ffdddddd</color>
+
+    <color name="container_fastscroll_thumb_inactive_color">@*android:color/accent_material_dark</color>
+    <color name="container_fastscroll_thumb_active_color">@*android:color/accent_material_dark</color>
+
+    <color name="delete_target_hover_tint">@*android:color/accent_material_dark</color>
+    <color name="uninstall_target_hover_tint">@*android:color/accent_material_dark</color>
+    <color name="info_target_hover_tint">@*android:color/accent_material_dark</color>
+
+    <color name="qsb_connector">@*android:color/accent_material_dark</color>
+    <color name="qsb_background">@*android:color/material_grey_850</color>
+    <color name="accentColor">@*android:color/accent_material_dark</color>
+</resources>

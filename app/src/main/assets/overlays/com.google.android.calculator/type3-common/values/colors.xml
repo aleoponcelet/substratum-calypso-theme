@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <color name="calculator_accent_color">@*android:color/transparent</color>
+ <color name="calculator_error_color">@*android:color/accent_material_dark</color>
+ <color name="calculator_primary_color">@*android:color/background_dark</color>
+ <color name="calculator_statusbar_color">@*android:color/transparent</color>
+ <color name="display_background_color">@*android:color/transparent</color>
+ <color name="display_formula_text_color">@*android:color/accent_material_light</color>
+ <color name="display_result_exponent_text_color">@*android:color/accent_material_dark</color>
+ <color name="display_result_text_color">@*android:color/accent_material_dark</color>
+ <color name="pad_numeric_background_color">@*android:color/transparent</color>
+ <color name="pad_operator_background_color">@*android:color/transparent</color>
+ <color name="pad_advanced_background_color">@*android:color/holo_purple</color>
+ <color name="pad_button_text_color">@*android:color/accent_material_light</color>
+ <color name="pad_button_advanced_text_color">@*android:color/accent_material_dark</color>
+ <color name="pad_button_ripple_color">@*android:color/highlighted_text_dark</color>
+ <color name="pad_button_advanced_ripple_color">@*android:color/highlighted_text_dark</color>
+ <color name="empty_history_color">@*android:color/holo_purple</color>
+ <color name="pad_view_pager_background">@*android:color/transparent</color>
+ <color name="google_blue_600">@*android:color/accent_material_dark</color>
+ <color name="google_gray_100">@*android:color/background_dark</color>
+ <color name="google_gray_300">#ffdadce0</color>
+ <color name="google_gray_600">#ffdddddd</color>
+ <color name="google_gray_900">#fffafafa</color>
+</resources>

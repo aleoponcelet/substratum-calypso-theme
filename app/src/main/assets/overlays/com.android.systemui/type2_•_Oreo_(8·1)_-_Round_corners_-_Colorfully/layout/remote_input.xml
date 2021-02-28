@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.android.systemui.statusbar.policy.RemoteInputView
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:theme="@*com.android.systemui:style/systemui_theme_remote_input"
+	android:id="@*com.android.systemui:id/remote_input"
+	android:layout_height="wrap_content"
+	android:layout_width="wrap_content"
+	android:backgroundTint="#00000000">
+
+	<view class="com.android.systemui.statusbar.policy.RemoteInputView$RemoteEditText"
+		android:id="@*com.android.systemui:id/remote_input_text"
+		android:layout_height="fill_parent"
+		android:layout_width="0dp"
+		android:layout_weight="1"
+		android:paddingTop="1dp"
+		android:paddingBottom="1dp"
+		android:paddingStart="18.0dp"
+		android:paddingEnd="12dp"
+		android:gravity="start|center_vertical"
+		android:textAppearance="?android:attr/textAppearance"
+		android:textColor="@*com.android.systemui:color/remote_input_text"
+		android:textColorHint="@*com.android.systemui:color/remote_input_hint"
+		android:textSize="14.5sp"
+		android:background="@*android:drawable/cling_arrow_up"
+		android:singleLine="true"
+		android:ellipsize="start"
+		android:inputType="textShortMessage|textAutoCorrect|textCapSentences"
+		android:imeOptions="actionSend|flagNoExtractUi|flagNoFullscreen" />
+
+	<FrameLayout
+		android:layout_width="wrap_content"
+		android:layout_height="match_parent"
+		android:layout_gravity="center_vertical">
+
+		<ImageButton
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_gravity="center"
+			android:paddingStart="12dp"
+			android:paddingEnd="24dp"
+			android:paddingTop="16dp"
+			android:paddingBottom="16dp"
+			android:id="@*com.android.systemui:id/remote_input_send"
+			android:src="@*com.android.systemui:drawable/ic_send"
+			android:contentDescription="@*android:string/ime_action_send"
+			android:tint="@*com.android.systemui:color/remote_input_send"
+			android:tintMode="src_in"
+			android:background="@*android:drawable/combobox_disabled" />
+
+		<ProgressBar
+			android:id="@*com.android.systemui:id/remote_input_progress"
+			android:layout_width="24dp"
+			android:layout_height="24dp"
+			android:layout_marginEnd="6dp"
+			android:layout_gravity="center"
+			android:visibility="invisible"
+			android:indeterminate="true"
+			style="?android:attr/progressBarStyleSmall" />
+
+	</FrameLayout>
+
+</com.android.systemui.statusbar.policy.RemoteInputView>

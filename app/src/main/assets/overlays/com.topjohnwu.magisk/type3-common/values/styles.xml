@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Platform.AppCompat" parent="@*android:style/Theme.DeviceDefault.Settings.Dark.NoActionBar">
+        <item name="android:windowBackground">@*android:color/background_dark</item>
+        <item name="android:statusBarColor">@*android:color/transparent</item>
+        <item name="android:colorBackgroundFloating">@*android:color/holo_purple</item>
+        <item name="android:navigationBarColor">@*android:color/background_dark</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:listDivider">@*android:color/transparent</item>
+    </style>
+
+    <style name="SuRequest" parent="@*com.topjohnwu.magisk:style/Theme.AppCompat.Dialog">
+        <item name="android:colorBackground">@*com.topjohnwu.magisk:color/su_request_background</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+    </style>
+
+</resources>

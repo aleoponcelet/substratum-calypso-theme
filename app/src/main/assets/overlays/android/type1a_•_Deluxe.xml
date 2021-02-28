@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ACCENT -->
+    <color name="accent_material_dark">#574BCD</color><!--Main accent-->
+    <color name="accent_material_light">#41E975</color><!-- Sec accent-->
+    <color name="Purple_700">#2999AD</color><!-- Center accent-->
+    <color name="highlighted_text_dark">#80574BCD</color><!--Aux accent-->
+    <!-- EXTRA-->
+    <color name="holo_blue_light">#574BCD</color><!--Indicators-->
+    <color name="holo_orange_light">#35574BCD</color><!--Gradients-->
+</resources>

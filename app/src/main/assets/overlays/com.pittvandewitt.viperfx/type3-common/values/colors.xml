@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="material_grey_900">@*android:color/transparent</color>
+    <color name="ColorPrimaryDark">@*android:color/transparent</color>
+    <color name="primary_dark_material_dark">@*android:color/transparent</color>
+
+    <color name="colorAccent">@*android:color/accent_material_dark</color>
+    <color name="purple">@*android:color/accent_material_dark</color>
+    <color name="ic_launcher_background">@*android:color/accent_material_dark</color>
+
+    <color name="design_bottom_navigation_shadow_color">#00000000</color>
+</resources>

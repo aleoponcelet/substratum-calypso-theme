@@ -1,0 +1,12 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+        android:width="24dp"
+        android:height="24dp"
+        android:viewportWidth="48.0"
+        android:viewportHeight="48.0">
+    <path
+        android:pathData="M6,7.99C6,6.89 6.89,6 7.99,6L20.01,6C21.11,6 22,6.9 22,7.99L22,24.01C22,25.11 21.11,26 20.01,26L7.99,26C6.89,26 6,25.1 6,24.01L6,7.99ZM26,23.99C26,22.89 26.89,22 27.99,22L40.01,22C41.11,22 42,22.9 42,23.99L42,40.01C42,41.11 41.11,42 40.01,42L27.99,42C26.89,42 26,41.1 26,40.01L26,23.99ZM10,10L10,22L18,22L18,10L10,10ZM30,26L30,38L38,38L38,26L30,26ZM6,32.01C6,30.9 6.89,30 7.99,30L20.01,30C21.11,30 22,30.9 22,32.01L22,39.99C22,41.1 21.11,42 20.01,42L7.99,42C6.89,42 6,41.1 6,39.99L6,32.01ZM10,34L10,38L18,38L18,34L10,34ZM26,8.01C26,6.9 26.89,6 27.99,6L40.01,6C41.11,6 42,6.9 42,8.01L42,15.99C42,17.1 41.11,18 40.01,18L27.99,18C26.89,18 26,17.1 26,15.99L26,8.01ZM30,10L30,14L38,14L38,10L30,10Z"
+        android:strokeColor="#00000000"
+        android:fillType="evenOdd"
+        android:fillColor="@*xyz.paphonb.androidpify:color/colorPrimaryDark"
+        android:strokeWidth="1"/>
+</vector>

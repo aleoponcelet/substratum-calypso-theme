@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:tint="@*android:color/notification_secondary_text_color_light">
+    <gradient android:startColor="@android:color/transparent" android:endColor="#91ffffff" android:angle="90.0" />
+</shape>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="widget_card_background_color">@*android:color/background_dark</color>
+    <color name="widget_footer_button_rippple_color">#ffa34a43</color>
+    <color name="widget_icon_color">#ffffff</color>
+    <color name="widget_no_item_description_color">#9affffff</color>
+    <color name="widget_no_item_title_color">#9affffff</color>
+    <color name="remind_time_now_text_color">@*android:color/accent_material_dark</color>
+    <color name="quick_widget_button_text_color">@*android:color/accent_material_dark</color>
+    <color name="quick_widget_text_color">#ffffff</color>
+    <color name="oneplus_contorl_icon_color_inactive_light">#aaaaaa</color>
+    <color name="detail_widget_content_text_color">#aaaaaa</color>
+    <color name="detail_widget_title_text_color">@*android:color/accent_material_dark</color>
+    <color name="oneplus_contorl_text_color_disable_default">#aaaaaa</color>
+    <color name="oneplus_contorl_text_color_disable_light">#aaaaaa</color>
+    <color name="oneplus_accent_color">@*android:color/accent_material_dark</color>
+</resources>

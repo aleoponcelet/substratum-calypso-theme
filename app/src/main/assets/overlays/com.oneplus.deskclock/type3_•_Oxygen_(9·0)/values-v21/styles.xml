@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.StatusBar.EventContent" parent="@*com.oneplus.deskclock:style/TextAppearance.StatusBar">
+        <item name="android:textSize">@*com.oneplus.deskclock:dimen/notification_text_size</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="TextAppearance.StatusBar.EventContent.Title" parent="@*com.oneplus.deskclock:style/TextAppearance.StatusBar.EventContent">
+        <item name="android:textSize">@*com.oneplus.deskclock:dimen/notification_title_text_size</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+</resources>

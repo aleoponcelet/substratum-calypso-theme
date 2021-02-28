@@ -1,0 +1,4 @@
+<resources>
+    <!-- Navbar and statusbar -->
+    <color name="light_mode_icon_color_dual_tone_fill">@*android:color/accent_material_dark</color>
+</resources>

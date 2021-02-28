@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="@*android:color/accent_material_dark"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="center|left" android:left="0.0dip">
+        <vector xmlns:android="http://schemas.android.com/apk/res/android"
+            android:width="11dp"
+            android:height="11dp"
+            android:viewportWidth="48.0"
+            android:viewportHeight="48.0">
+            <path
+                android:pathData="M4,10.15C4.04,11.12 4.34,12.16 4.94,13.22L19.31,38.76c2.4,4.26 6.99,4.25 9.38,0L43.05,13.22c2.38,-4.23 0.05,-8.22 -4.8,-8.22L9.73,5c-3.63,0 -5.85,2.25 -5.73,5.15zM8.08,10.25c-0.06,-0.85 0.68,-1.25 1.66,-1.25L38.25,9c1.79,0 1.99,0.92 1.31,2.26L25.2,36.8c-0.67,1.24 -1.54,1.54 -2.4,0L8.42,11.26c-0.22,-0.39 -0.33,-0.73 -0.35,-1.01z"
+                android:fillType="nonZero"
+                android:strokeColor="#FFFFFFFF"
+                android:fillColor="#FFFFFFFF"
+                android:strokeWidth="5"/>
+        </vector>
+    </item>
+</ripple>

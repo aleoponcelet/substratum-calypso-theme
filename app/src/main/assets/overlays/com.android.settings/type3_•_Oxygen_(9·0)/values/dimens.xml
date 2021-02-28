@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dashboard_category_margin_bottom">0.0dip</dimen>
+    <dimen name="dashboard_category_elevation">0dp</dimen>
+    <dimen name="search_panel_elevation">1.0dip</dimen>
+    <dimen name="dashboard_category_title_height">35.0dip</dimen>
+    <dimen name="dashboard_padding_top">0.0dip</dimen>
+    <dimen name="dashboard_padding_bottom">10.0dip</dimen>
+    <dimen name="dashboard_tile_minimum_height">70.0dip</dimen>
+    <dimen name="divider_margin_top">0.0dip</dimen>
+    <dimen name="divider_margin_bottom">0.0dip</dimen>
+    <dimen name="dashboard_tile_image_margin_end">26.0dip</dimen>
+    <dimen name="dashboard_category_title_margin_start">16.0dip</dimen>
+    <dimen name="dashboard_tile_image_margin_start">16.0dip</dimen>
+    <dimen name="dashboard_padding_start">0dp</dimen>
+    <dimen name="dashboard_padding_end">0dp</dimen>
+    <dimen name="dashboard_tile_image_size">24.0dip</dimen>
+    <dimen name="suw_glif_card_elevation">0.0dip</dimen>
+    <dimen name="suw_card_elevation">0.0dip</dimen>
+    <dimen name="suw_title_area_elevation">0.0dip</dimen>
+    <dimen name="suw_header_elevation_hack">0.0dip</dimen>
+
+    <dimen name="toolbar_elevation">0.0dip</dimen>
+    <dimen name="op_divider_height_standard">0.0dip</dimen>
+    <dimen name="oneplus_contorl_divider_height_standard">0.0dip</dimen>
+    <dimen name="oneplus_contorl_shadow_z5">0.0dip</dimen>
+    <dimen name="oneplus_contorl_shadow_z4">0.0dip</dimen>
+    <dimen name="oneplus_contorl_shadow_z3">0.0dip</dimen>
+    <dimen name="oneplus_contorl_shadow_z2">0.0dip</dimen>
+    <dimen name="oneplus_contorl_shadow_z1">0.0dip</dimen>
+</resources>

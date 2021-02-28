@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@*android:color/transparent" />
+            <size android:height="38.0dip" android:width="38.0dip" />
+        </shape>
+    </item>
+    <item
+        android:height="32.0dip"
+        android:width="32.0dip"
+        android:drawable="@*com.google.android.apps.wellbeing:drawable/ic_digital_wellbeing_settings_icon"
+        android:top="3.8dip"
+        android:start="3.8dip"/>
+</layer-list>

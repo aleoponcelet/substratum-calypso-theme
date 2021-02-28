@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_height="fill_parent" style="@*com.oneplus.calculator:style/PadLayoutStyle.Operator"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.GridLayout android:background="@*android:color/holo_purple" app:rowCount="4" app:columnCount="1" style="@*com.oneplus.calculator:style/OPPadLayoutStyle1" xmlns:app="http://schemas.android.com/apk/res-auto">
+        <Button android:id="@*com.oneplus.calculator:id/op_div" android:text="@*com.oneplus.calculator:string/op_div" android:contentDescription="@*com.oneplus.calculator:string/desc_op_div" app:layout_row="0" app:layout_column="0" style="@*com.oneplus.calculator:style/PadButtonStyle.Operator" />
+        <Button android:id="@*com.oneplus.calculator:id/op_mul" android:text="@*com.oneplus.calculator:string/op_mul" android:contentDescription="@*com.oneplus.calculator:string/desc_op_mul" app:layout_row="1" app:layout_column="0" style="@*com.oneplus.calculator:style/PadButtonStyle.Operator" />
+        <Button android:id="@*com.oneplus.calculator:id/op_sub" android:text="@*com.oneplus.calculator:string/op_sub" android:contentDescription="@*com.oneplus.calculator:string/desc_op_sub" app:layout_row="2" app:layout_column="0" style="@*com.oneplus.calculator:style/PadButtonStyle.Operator" />
+        <Button android:id="@*com.oneplus.calculator:id/op_add" android:text="@*com.oneplus.calculator:string/op_add" android:contentDescription="@*com.oneplus.calculator:string/desc_op_add" app:layout_row="3" app:layout_column="0" style="@*com.oneplus.calculator:style/PadButtonStyle.Operator" />
+    </android.support.v7.widget.GridLayout>
+    <android.support.v7.widget.GridLayout android:id="@*com.oneplus.calculator:id/pad_operator" android:background="@*com.oneplus.calculator:color/op_eq_background_color" app:rowCount="1" app:columnCount="1" style="@*com.oneplus.calculator:style/OPPadLayoutStyle2" xmlns:app="http://schemas.android.com/apk/res-auto">
+        <Button android:id="@*com.oneplus.calculator:id/eq" android:text="@*com.oneplus.calculator:string/eq" android:contentDescription="@*com.oneplus.calculator:string/desc_eq" app:layout_row="0" app:layout_column="0" style="@*com.oneplus.calculator:style/PadButtonStyle.Numeric.Equals" />
+    </android.support.v7.widget.GridLayout>
+</LinearLayout>
