@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/aleoponcelet/Calypso/blob/main/Screenshots/logo.png?raw=true" height="130" width="130"/>
+  <img src="https://github.com/aleoponcelet/Calypso/blob/main/Screenshots/logo.png?raw=true" height="200" width="200"/>
 </p>
 
-<h1 align="center">Calypso Theme</h1>
+<h1 align="center">Calypso Theme for Substratum</h1>
 
 <p align="center">A <a href="https://github.com/substratum">Substratum</a> theme for Android 8.1</p>
 
