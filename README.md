@@ -45,5 +45,8 @@ Calypso is designed with pixel perfect graphics and blur effects, to give your p
 * Fonts (1)
 * Wallpapers (12)
 
+#### Thanks
+Thanks to [@Deadmanxxd](https://github.com/deadmanxxd), this project is heavily inspired by [Valerie](https://play.google.com/store/apps/details?id=com.samsoft.valerie).
+
 ### License 
 Calypso is available under the terms of Apache License 2.0.
