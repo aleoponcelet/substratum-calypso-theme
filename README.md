@@ -28,7 +28,7 @@ Calypso is designed with pixel perfect graphics and blur effects, to give your p
 * Your device must be rooted
 * xhdpi, xxhdpi, xxxhdpi devices are supported
 
-#### WHAT IS INCLUDED 
+#### What is included 
 * Framework
 * Selectable Main.
 * Gradient colors
@@ -48,5 +48,5 @@ Calypso is designed with pixel perfect graphics and blur effects, to give your p
 #### Thanks
 Thanks to [@Deadmanxxd](https://github.com/deadmanxxd), this project is heavily inspired by [Valerie](https://play.google.com/store/apps/details?id=com.samsoft.valerie).
 
-### License 
+#### License 
 Calypso is available under the terms of Apache License 2.0.
