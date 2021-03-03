@@ -13,6 +13,7 @@
 <p align="center">
   <img src="https://github.com/aleoponcelet/Calypso/blob/main/Screenshots/Fi1.png?raw=true" height="430" width="240"/>
   <img src="https://github.com/aleoponcelet/Calypso/blob/main/Screenshots/Fi2.png?raw=true" height="430" width="240"/>
+  <img src="https://github.com/aleoponcelet/Calypso/blob/main/Screenshots/Fi3.png?raw=true" height="430" width="240"/>
 </p>
 
 *Calypso has been removed from the Google Playstore on February 21, 2021.*
